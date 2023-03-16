@@ -1,0 +1,258 @@
+(base) tylar@tylar-gram:~/repos/llbigdreams$ wget --mirror --convert-links --adjust-extension --page-requisites --no-parent llbigdreams.com
+--2023-03-16 12:07:29--  http://llbigdreams.com/
+Resolving llbigdreams.com (llbigdreams.com)... 104.17.194.73, 104.17.195.73, 104.17.193.73, ...
+Connecting to llbigdreams.com (llbigdreams.com)|104.17.194.73|:80... connected.
+HTTP request sent, awaiting response... 301 Moved Permanently
+Location: https://llbigdreams.com/ [following]
+--2023-03-16 12:07:29--  https://llbigdreams.com/
+Connecting to llbigdreams.com (llbigdreams.com)|104.17.194.73|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/index.html’
+
+llbigdreams.com/index     [ <=>                    ]  83.12K  --.-KB/s    in 0.04s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:30 (2.07 MB/s) - ‘llbigdreams.com/index.html’ saved [85113]
+
+Loading robots.txt; please ignore errors.
+--2023-03-16 12:07:30--  https://llbigdreams.com/robots.txt
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 62 [text/plain]
+Saving to: ‘llbigdreams.com/robots.txt’
+
+llbigdreams.com/robot 100%[=======================>]      62  --.-KB/s    in 0s      
+
+2023-03-16 12:07:30 (136 MB/s) - ‘llbigdreams.com/robots.txt’ saved [62/62]
+
+--2023-03-16 12:07:30--  https://llbigdreams.com/.css/?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208479 (204K) [text/css]
+Saving to: ‘llbigdreams.com/.css/index.html?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.59K  --.-KB/s    in 0.1s    
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:31 (1.56 MB/s) - ‘llbigdreams.com/.css/index.html?cacheId=1653494955044.css’ saved [208479/208479]
+
+--2023-03-16 12:07:31--  https://llbigdreams.com/.js/?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 259059 (253K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/index.html?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/i 100%[=======================>] 252.99K  --.-KB/s    in 0.1s    
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:31 (2.20 MB/s) - ‘llbigdreams.com/.js/index.html?cacheId=1653494955044&locale=en-US’ saved [259059/259059]
+
+--2023-03-16 12:07:31--  https://llbigdreams.com/&quot;https://imageprocessor.digital.vistaprint.com/crop/0,0,1903x13120/maxWidth/2000/https://uploads.documents.cimpress.io/v1/uploads/1e9dd200-a42f-4d77-a84b-a1639d696e9b~110/original?tenant=vbu-digital&quot;
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2023-03-16 12:07:31 ERROR 404: Not Found.
+
+--2023-03-16 12:07:31--  https://llbigdreams.com/community-impact
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/community-impact.html’
+
+llbigdreams.com/commu     [ <=>                    ] 106.31K  --.-KB/s    in 0.05s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:32 (2.19 MB/s) - ‘llbigdreams.com/community-impact.html’ saved [108860]
+
+--2023-03-16 12:07:32--  https://llbigdreams.com/stumpy-cup-golf-tournament
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/stumpy-cup-golf-tournament.html’
+
+llbigdreams.com/stump     [ <=>                    ] 102.25K  --.-KB/s    in 0.05s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:32 (2.13 MB/s) - ‘llbigdreams.com/stumpy-cup-golf-tournament.html’ saved [104701]
+
+--2023-03-16 12:07:32--  https://llbigdreams.com/contact-us
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/contact-us.html’
+
+llbigdreams.com/conta     [ <=>                    ]  73.42K  --.-KB/s    in 0.003s  
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:32 (24.8 MB/s) - ‘llbigdreams.com/contact-us.html’ saved [75183]
+
+--2023-03-16 12:07:32--  https://llbigdreams.com/donate
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/donate.html’
+
+llbigdreams.com/donat     [ <=>                    ]  73.68K  --.-KB/s    in 0.03s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:33 (2.47 MB/s) - ‘llbigdreams.com/donate.html’ saved [75452]
+
+--2023-03-16 12:07:33--  https://llbigdreams.com/who-we-are
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘llbigdreams.com/who-we-are.html’
+
+llbigdreams.com/who-w     [ <=>                    ]  78.49K  --.-KB/s    in 0s      
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:33 (259 MB/s) - ‘llbigdreams.com/who-we-are.html’ saved [80369]
+
+--2023-03-16 12:07:33--  https://llbigdreams.com/&quot;https://imageprocessor.digital.vistaprint.com/maxWidth/2000/progressive/https://uploads.documents.cimpress.io/v1/uploads/db35d818-03a2-49ac-aefe-069af7f182ab~110/original?tenant=vbu-digital&quot;
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2023-03-16 12:07:33 ERROR 404: Not Found.
+
+--2023-03-16 12:07:33--  https://llbigdreams.com/studio/image/googleMapEmpireState.png
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 404 Not Found
+2023-03-16 12:07:34 ERROR 404: Not Found.
+
+--2023-03-16 12:07:34--  https://llbigdreams.com/.css/community-impact?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208479 (204K) [text/css]
+Saving to: ‘llbigdreams.com/.css/community-impact?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.59K  --.-KB/s    in 0.04s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:34 (4.44 MB/s) - ‘llbigdreams.com/.css/community-impact?cacheId=1653494955044.css’ saved [208479/208479]
+
+--2023-03-16 12:07:34--  https://llbigdreams.com/.js/community-impact?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 268155 (262K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/community-impact?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/c 100%[=======================>] 261.87K  --.-KB/s    in 0.1s    
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:35 (2.43 MB/s) - ‘llbigdreams.com/.js/community-impact?cacheId=1653494955044&locale=en-US’ saved [268155/268155]
+
+--2023-03-16 12:07:35--  https://llbigdreams.com/.css/stumpy-cup-golf-tournament?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208479 (204K) [text/css]
+Saving to: ‘llbigdreams.com/.css/stumpy-cup-golf-tournament?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.59K  --.-KB/s    in 0.08s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:36 (2.42 MB/s) - ‘llbigdreams.com/.css/stumpy-cup-golf-tournament?cacheId=1653494955044.css’ saved [208479/208479]
+
+--2023-03-16 12:07:36--  https://llbigdreams.com/.js/stumpy-cup-golf-tournament?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 270424 (264K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/stumpy-cup-golf-tournament?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/s 100%[=======================>] 264.09K  --.-KB/s    in 0.1s    
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:36 (2.53 MB/s) - ‘llbigdreams.com/.js/stumpy-cup-golf-tournament?cacheId=1653494955044&locale=en-US’ saved [270424/270424]
+
+--2023-03-16 12:07:36--  https://llbigdreams.com/.css/contact-us?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208378 (203K) [text/css]
+Saving to: ‘llbigdreams.com/.css/contact-us?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.49K  --.-KB/s    in 0.07s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:37 (2.75 MB/s) - ‘llbigdreams.com/.css/contact-us?cacheId=1653494955044.css’ saved [208378/208378]
+
+--2023-03-16 12:07:37--  https://llbigdreams.com/.js/contact-us?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 264941 (259K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/contact-us?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/c 100%[=======================>] 258.73K  --.-KB/s    in 0.09s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:37 (2.91 MB/s) - ‘llbigdreams.com/.js/contact-us?cacheId=1653494955044&locale=en-US’ saved [264941/264941]
+
+--2023-03-16 12:07:37--  https://llbigdreams.com/.css/donate?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208378 (203K) [text/css]
+Saving to: ‘llbigdreams.com/.css/donate?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.49K  --.-KB/s    in 0.03s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:38 (5.96 MB/s) - ‘llbigdreams.com/.css/donate?cacheId=1653494955044.css’ saved [208378/208378]
+
+--2023-03-16 12:07:38--  https://llbigdreams.com/.js/donate?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 254722 (249K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/donate?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/d 100%[=======================>] 248.75K  --.-KB/s    in 0.07s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:38 (3.29 MB/s) - ‘llbigdreams.com/.js/donate?cacheId=1653494955044&locale=en-US’ saved [254722/254722]
+
+--2023-03-16 12:07:38--  https://llbigdreams.com/.css/who-we-are?cacheId=1653494955044
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 208378 (203K) [text/css]
+Saving to: ‘llbigdreams.com/.css/who-we-are?cacheId=1653494955044.css’
+
+llbigdreams.com/.css/ 100%[=======================>] 203.49K  --.-KB/s    in 0.06s   
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:39 (3.61 MB/s) - ‘llbigdreams.com/.css/who-we-are?cacheId=1653494955044.css’ saved [208378/208378]
+
+--2023-03-16 12:07:39--  https://llbigdreams.com/.js/who-we-are?cacheId=1653494955044&locale=en-US
+Reusing existing connection to llbigdreams.com:443.
+HTTP request sent, awaiting response... 200 OK
+Length: 257128 (251K) [application/javascript]
+Saving to: ‘llbigdreams.com/.js/who-we-are?cacheId=1653494955044&locale=en-US’
+
+llbigdreams.com/.js/w 100%[=======================>] 251.10K  --.-KB/s    in 0.1s    
+
+Last-modified header missing -- time-stamps turned off.
+2023-03-16 12:07:40 (1.96 MB/s) - ‘llbigdreams.com/.js/who-we-are?cacheId=1653494955044&locale=en-US’ saved [257128/257128]
+
+FINISHED --2023-03-16 12:07:40--
+Total wall clock time: 11s
+Downloaded: 19 files, 3.2M in 1.2s (2.70 MB/s)
+Converting links in llbigdreams.com/index.html... 18.
+16-2
+Converting links in llbigdreams.com/who-we-are.html... 17.
+15-2
+Converting links in llbigdreams.com/donate.html... 17.
+15-2
+Converting links in llbigdreams.com/contact-us.html... 17.
+15-2
+Converting links in llbigdreams.com/stumpy-cup-golf-tournament.html... 17.
+15-2
+Converting links in llbigdreams.com/community-impact.html... 17.
+15-2
+Converting links in llbigdreams.com/.css/stumpy-cup-golf-tournament?cacheId=1653494955044.css... 1.
+0-1
+Converting links in llbigdreams.com/.css/who-we-are?cacheId=1653494955044.css... 1.
+0-1
+Converting links in llbigdreams.com/.css/contact-us?cacheId=1653494955044.css... 1.
+0-1
+Converting links in llbigdreams.com/.css/donate?cacheId=1653494955044.css... 1.
+0-1
+Converting links in llbigdreams.com/.css/index.html?cacheId=1653494955044.css... 1.
+0-1
+Converting links in llbigdreams.com/.css/community-impact?cacheId=1653494955044.css... 1.
+0-1
+Converted links in 12 files in 0.03 seconds.
