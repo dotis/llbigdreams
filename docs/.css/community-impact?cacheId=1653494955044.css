@@ -27,6 +27,8 @@
  */
 /* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
+Little Laws Big Dreams
+
    License: none (public domain)
 */
 *,
@@ -583,6 +585,7 @@ body.is-dragging-block .emptyDocumentNotification-nonHomePage {
   left: 0;
   right: 0;
   z-index: 2;
+  background-color: #67696c;
 }
 #document-popover-overlay {
   position: absolute;
